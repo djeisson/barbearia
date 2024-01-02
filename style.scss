@@ -11,9 +11,8 @@
 @import "partials/layout.scss";
 body{
     font-family: sans-serif;
-    width: 100%;
+    max-width:100% ;
     height: 100vh;
-    position: relative;
     background-color: $primary-normal;
 }
 
